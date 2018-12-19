@@ -1,2 +1,2 @@
-# Word-Guess-Game
-It is word guess game
+# Psychic-Game
+It is Psychic-Game
